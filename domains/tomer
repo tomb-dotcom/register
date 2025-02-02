@@ -1,0 +1,9 @@
+{
+    "description": "Portfolio of Tomer B",
+    "owner": {
+        "username": "tomb-dotcom"
+    },
+    "record": {
+        "CNAME": "tomb-dotcom.github.io"
+    }
+}
